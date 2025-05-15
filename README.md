@@ -2,6 +2,10 @@
 
 This project implements a dynamic FAQ system for Bloom Reuse's recommerce platform, handling multiple brands with different configurations for shipping, payment, and special requirements.
 
+
+https://github.com/user-attachments/assets/189e2a33-ece3-42bb-bfe3-046d05cd4ba2
+
+
 ## 🏗️ Architecture
 
 ### Backend (`/backend`)
